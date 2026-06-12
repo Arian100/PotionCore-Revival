@@ -6,7 +6,9 @@ A revival of the famous [PotionCore](https://www.curseforge.com/minecraft/mc-mod
 
 ### Important
 
-This port is still work in progress so expect things to break
+- This port is still work in progress so expect things to break
+- This is a port of https://www.curseforge.com/minecraft/mc-mods/potion-core-reborn
+- Make sure to credit the original authors Tmtravlr (Original mod) & Kai_Nulled (Reborn version)
 
 <hr>
 
